@@ -1,0 +1,8 @@
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\bin\Debug\SystemStore.exe.config
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\bin\Debug\SystemStore.exe
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\bin\Debug\SystemStore.pdb
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\obj\Debug\SystemStore.csproj.AssemblyReference.cache
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\obj\Debug\SystemStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\obj\Debug\SystemStore.csproj.CoreCompileInputs.cache
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\obj\Debug\SystemStore.exe
+C:\Users\j3anp\source\repos\SystemStore\SystemStore\obj\Debug\SystemStore.pdb

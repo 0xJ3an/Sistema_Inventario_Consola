@@ -1,0 +1,3 @@
+Carne;5;20
+Huevos;5;2
+Arroz;3;10
