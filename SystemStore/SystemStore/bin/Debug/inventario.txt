@@ -1,0 +1,2 @@
+Carnes;3;1,50
+Manzanas;10;0,25
