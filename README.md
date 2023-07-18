@@ -1,5 +1,5 @@
 # Sistema_Inventario_Consola
-Proyecto Sistema de inventario por Consola C# UDLA
+Proyecto Sistema de inventario por Consola con archivos C# UDLA
 
 
 
